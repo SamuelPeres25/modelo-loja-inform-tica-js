@@ -1,0 +1,1 @@
+# modelo-loja-inform-tica-js
